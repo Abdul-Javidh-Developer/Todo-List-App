@@ -28,6 +28,7 @@ h1 {
 #errorMessage {
     color: red;
     font-weight: bold;
+    font-size: small;
     display: none;
 }
 
